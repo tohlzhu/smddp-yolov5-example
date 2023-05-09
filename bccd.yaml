@@ -1,0 +1,8 @@
+train: /opt/ml/input/data/train/train
+val: /opt/ml/input/data/train/valid
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Platelets', 'RBC', 'WBC']

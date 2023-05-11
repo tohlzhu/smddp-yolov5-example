@@ -1,5 +1,6 @@
 """
 This script is an example of how to use smdebug for training a Keras model.
+Not finished.
 """
 # Standard Library
 import argparse
